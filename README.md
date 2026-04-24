@@ -15,16 +15,16 @@ The first focus is Gijon beaches: tides, weather, and simple local recommendatio
 
 ## Repositories
 
-- `orbayu-app/api` - Laravel API
-- `orbayu-app/infra` - Docker, Nginx, Drone, deploy scripts
-- `orbayu-app/mobile` - Expo / React Native app
-- `orbayu-app/docs` - documentation and ADRs
+- [orbayu-app/api](https://github.com/orbayu-app/api) - Laravel API
+- [orbayu-app/infra](https://github.com/orbayu-app/infra) - Docker, Nginx, Drone, deploy scripts
+- [orbayu-app/mobile](https://github.com/orbayu-app/mobile) - Expo / React Native app
+- [orbayu-app/docs](https://github.com/orbayu-app/docs) - documentation and ADRs
 
 ## Contents
 
-- `adr/` - Architecture Decision Records
-- `github-workflow.md` - issue, label, milestone, and project board rules
+- [adr/](./adr/) - Architecture Decision Records
+- [github-workflow.md](./github-workflow.md) - issue, label, milestone, and project board rules
 
 ## Project Work
 
-Active work is tracked in GitHub Issues and the public Orbayu Roadmap project.
+Active work is tracked in GitHub Issues and the public [Orbayu Roadmap](https://github.com/orgs/orbayu-app/projects/1) project.
