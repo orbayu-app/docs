@@ -35,6 +35,8 @@ Milestone = planned phase.
 
 No milestone = backlog.
 
+Cross-repository milestone strategy: [ADR-002](adr/002-milestones-strategy.md).
+
 ## Size
 
 `XS`: up to 30 minutes.
