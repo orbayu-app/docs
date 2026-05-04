@@ -3,6 +3,8 @@
 ## Status
 Accepted
 
+Updated: commit footers now always use full cross-repo issue references.
+
 ## Context
 We need a consistent and readable approach to commit messages
 and branch naming.
@@ -41,11 +43,11 @@ Each section is separated by a blank line.
 - References related issues
 
 Format:
-Refs #123
+Refs orbayu-app/api#123
 
 - No colon is used
-- Multiple references allowed: Refs #123, #456
-- Cross-repo references use full issue names: Refs orbayu-app/api#123
+- Always use full cross-repo issue references
+- Multiple references allowed: Refs orbayu-app/api#123, orbayu-app/infra#456
 - Refs is used to avoid automatic issue closing
 
 ### Branch Naming
