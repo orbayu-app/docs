@@ -80,8 +80,13 @@ Examples:
 - Add `blocked` label to the waiting issue
 - Use `parent` only for big work split into smaller issues
 - Do not use relationships for "related"
-- Use `Refs orbayu-app/repo#N` for loose references
 - Cross-repo issue link: `orbayu-app/repo#N`
+
+## Commits
+
+- Use imperative mood
+- Use full issue refs in footers: `Refs orbayu-app/api#3`
+- Use `Refs`, not `Closes`, unless the commit should close the issue
 
 ## Picking Work
 
